@@ -33,6 +33,8 @@
 
 ---
 
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 ### 1 Structured Paper Summary
 
 *   **Introduction:** The paper establishes the context of super-Neptunes (4–8  $R_{\oplus}$ ) as a diverse population whose formation is not well understood, especially those found in the "hot Neptune desert"—a region of period-radius parameter space where close-in, Neptune-sized planets are rare. It positions the TOI-5126 system, discovered by TESS, as a key case study due to its brightness and the presence of both a desert-dwelling planet and an exterior companion, enabling comparative studies.
@@ -144,5 +146,5 @@ This paper provides a high-priority archetype for your population study; TOI-512
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NTc5NTQ2LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTQ2MDUzMzQ2MCw3MzA5OTgxMTZdfQ==
 -->
