@@ -29,9 +29,11 @@
 
 | Paper Title | Relevance & Quick Takeaway |
 | --- | --- |
-| **The Upper Edge of the Neptune Desert Is Stable Against Photoevaporation** | **Relevance Score (1-10): 9**<br>**Is it a 'Must-Read'? Yes**<br>**Quick Takeaway:** Photoevaporation is too inefficient to carve the upper Neptune desert, implying that its structure is a pristine tracer of giant planet formation and migration.
+| **TOI-5126: a hot super-Neptune and warm Neptune pair discovered by TESS and CHEOPS** | **Relevance Score (1-10): 8**<br>**Is it a 'Must-Read'? Yes**<br>**Quick Takeaway:** Provides a confirmed, bright hot super-Neptune (TOI-5126 b) inside the Neptune desert, making it a key target for atmospheric studies to understand desert formation mechanisms.
 
 ---
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ0MjMzNjExLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMjA2ODgyNDYwOCw3MzA5OTgxMTZdfQ==
 -->
