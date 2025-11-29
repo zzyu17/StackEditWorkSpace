@@ -43,7 +43,7 @@
 
 ---
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 ### 1 Structured Paper Summary
 
@@ -170,5 +170,5 @@ This paper demonstrates that the Neptunian desert is not just a static demograph
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDI2NzA5MjVdfQ==
+eyJoaXN0b3J5IjpbMTU3MDcyNzg3MV19
 -->
