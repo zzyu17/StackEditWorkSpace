@@ -31,7 +31,7 @@
 
 | Paper Title | Relevance & Quick Takeaway |
 | --- | --- |
-| **Photoevaporation and high-eccentricity migration created the sub-Jovian desert** | **Relevance Score (1-10): 10**<br>**Is it a 'Must-Read'? Yes**<br>**Quick Takeaway:** The sub-Jovian desert is shaped by photoevaporation of sub-Neptunes (lower boundary) and tidal disruption during high-eccentricity migration of gas giants (upper boundary), implying separate formation channels for super-Earths and hot Jupiters.
+| **Photoevaporation and high-eccentricity migration created the sub-Jovian desert** | **Relevance Score (1-10): 10**<br>**Is it a 'Must-Read'? Yes**<br>**Quick Takeaway:** The sub-Jovian desert is shaped by photoevaporation of sub-Neptunes (lower boundary) and tidal disruption during high-eccentricity migration of gas giants (upper boundary), implying separate formation channels for super-Earths and hot Jupiters. |
 
 ---
 
@@ -164,5 +164,5 @@ This paper provides the definitive theoretical model for the Neptunian Desert, f
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NjE4MDMzOV19
+eyJoaXN0b3J5IjpbMTAxODYwOTExMV19
 -->
