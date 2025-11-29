@@ -33,7 +33,7 @@
 
 ---
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ### 1 Structured Paper Summary
 
@@ -62,6 +62,8 @@
         
     *   **Stability Analysis:** They used the MEGNO chaos indicator within the `REBOUND` N-body package to explore the system's long-term dynamical stability, placing loose constraints on planet masses.
         
+
+<br><br><br><br>
 
 ### 3 Critical Evaluation
 
@@ -146,5 +148,5 @@ This paper provides a high-priority archetype for your population study; TOI-512
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MDUzMzQ2MCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMjAxNzkyNTcyNiw3MzA5OTgxMTZdfQ==
 -->
