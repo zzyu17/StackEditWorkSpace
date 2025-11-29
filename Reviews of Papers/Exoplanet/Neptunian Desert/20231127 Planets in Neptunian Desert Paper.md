@@ -29,7 +29,7 @@
 
 | Paper Title | Relevance & Quick Takeaway |
 | --- | --- |
-| **TOI-5126: a hot super-Neptune and warm Neptune pair discovered by TESS and CHEOPS** | **Relevance Score (1-10): 8**<br>**Is it a 'Must-Read'? Yes**<br>**Quick Takeaway:** Provides a confirmed, bright hot super-Neptune (TOI-5126 b) inside the Neptune desert, making it a key target for atmospheric studies to understand desert formation mechanisms.
+| **TOI-5126: a hot super-Neptune and warm Neptune pair discovered by TESS and CHEOPS** | **Relevance Score (1-10): 8**<br>**Is it a 'Must-Read'? Yes**<br>**Quick Takeaway:** Provides a confirmed, bright hot super-Neptune (TOI-5126 b) inside the Neptune desert, making it a key target for atmospheric studies to understand desert formation mechanisms. |
 
 ---
 
@@ -148,5 +148,6 @@ This paper provides a high-priority archetype for your population study; TOI-512
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNzkyNTcyNiw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNTkwNjk0Mzk0LDIwMTc5MjU3MjYsNzMwOT
+k4MTE2XX0=
 -->
