@@ -39,7 +39,7 @@
 
 | Paper Title | Relevance & Quick Takeaway |
 | --- | --- |
-| **The metal-poor atmosphere of a potential sub-Neptune progenitor** | **Relevance Score (1-10): 8**<br>**Is it a 'Must-Read'? Yes**<br>**Quick Takeaway:** This study of a young, low-mass, inflated exoplanet demonstrates a clear pathway of atmospheric evolution via mass loss from a Jupiter-sized progenitor to a future sub-Neptune, directly informing the mechanisms that create the Neptunian desert.
+| **The metal-poor atmosphere of a potential sub-Neptune progenitor** | **Relevance Score (1-10): 8**<br>**Is it a 'Must-Read'? Yes**<br>**Quick Takeaway:** This study of a young, low-mass, inflated exoplanet demonstrates a clear pathway of atmospheric evolution via mass loss from a Jupiter-sized progenitor to a future sub-Neptune, directly informing the mechanisms that create the Neptunian desert. |
 
 ---
 
@@ -170,5 +170,5 @@ This paper demonstrates that the Neptunian desert is not just a static demograph
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MDcyNzg3MV19
+eyJoaXN0b3J5IjpbLTExMzcyMjQ0MTMsMTU3MDcyNzg3MV19
 -->
