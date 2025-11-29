@@ -77,7 +77,7 @@
     *   **Evolution Models:** The photoevaporation simulations use the non-energy-limited formalism of Kubyshkina et al. (2018), which is more realistic. The RLO modeling follows the formalism of Gu et al. (2003) and Valsecchi et al. (2015), which is standard for this type of analysis.
         
 
-<br><br><br><br>
+<br><br>
 
 ### 3 Critical Evaluation
 
@@ -156,5 +156,5 @@ This paper demonstrates that the Neptunian Desert is sculpted by multiple mechan
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNzAwNDAwMl19
+eyJoaXN0b3J5IjpbMTg4ODM2MTU0Ml19
 -->
