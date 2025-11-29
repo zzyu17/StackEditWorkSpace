@@ -1,4 +1,4 @@
-**1 Core Information Summary
+### 1 Core Information Summary
 
 *   **Research Question:** To confirm and characterize the TOI-5126 planetary system, specifically a hot super-Neptune (TOI-5126 b) located within the "hot Neptune desert," and its exterior warm Neptune companion (TOI-5126 c).
     
@@ -25,12 +25,13 @@
     3.  Presents the counter-intuitive observation that the inner, hotter planet (b) is _larger_ than the outer, cooler planet (c), which contrasts with simple photoevaporation expectations.
         
 
-**2 Relevance & Takeaway Table**
+### 2 Relevance & Takeaway Table
 
-| Paper Title | Relevance to “Planets in Neptunian Desert” & Quick Takeaway |
+| Paper Title | Relevance & Quick Takeaway |
 | --- | --- |
-| TOI-5126: a hot super-Neptune and warm Neptune pair... | **Relevance Score (1-10):** 8 **Is it a 'Must-Read'?** Yes  
-**Quick Takeaway:** Provides a confirmed, bright hot super-Neptune (TOI-5126 b) inside the Neptune desert, making it a key target for atmospheric studies to understand desert formation mechanisms. |
+| **The Upper Edge of the Neptune Desert Is Stable Against Photoevaporation** | **Relevance Score (1-10): 9**<br>**Is it a 'Must-Read'? Yes**<br>**Quick Takeaway:** Photoevaporation is too inefficient to carve the upper Neptune desert, implying that its structure is a pristine tracer of giant planet formation and migration.
+
+---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc3OTk1NjM1LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbNTQ0MjMzNjExLDczMDk5ODExNl19
 -->
