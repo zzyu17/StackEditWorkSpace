@@ -30,7 +30,7 @@
 
 | Paper Title | Relevance & Quick Takeaway |
 | --- | --- |
-| **TOI-2374 b and TOI-3071 b: two metal-rich sub-Saturns well within the Neptunian desert** | **Relevance Score (1-10): 10**<br>**Is it a 'Must-Read'? Yes**<br>**Quick Takeaway:** The discovery of two extremely metal-rich sub-Saturns within the desert challenges standard formation models and suggests high metallicity is crucial for planetary survival in this region.
+| **TOI-2374 b and TOI-3071 b: two metal-rich sub-Saturns well within the Neptunian desert** | **Relevance Score (1-10): 10**<br>**Is it a 'Must-Read'? Yes**<br>**Quick Takeaway:** The discovery of two extremely metal-rich sub-Saturns within the desert challenges standard formation models and suggests high metallicity is crucial for planetary survival in this region. |
 
 ---
 
@@ -158,5 +158,5 @@ This paper demonstrates that the Neptunian desert is not entirely empty but is p
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTQxMzUwMjZdfQ==
+eyJoaXN0b3J5IjpbMTM5NDc2MTI2NiwtMTQ5NDEzNTAyNl19
 -->
