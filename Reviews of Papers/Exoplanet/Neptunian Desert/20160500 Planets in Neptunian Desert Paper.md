@@ -30,7 +30,7 @@
 
 | Paper Title | Relevance & Quick Takeaway |
 | --- | --- |
-| **Dearth of short-period Neptunian exoplanets: A desert in period-mass and period-radius planes** | **Relevance Score (1-10): 10**<br>**Is it a 'Must-Read'? Yes**<br>**Quick Takeaway:** This paper provides the definitive quantitative description of the Neptunian desert's boundaries, establishing it as a key feature separating hot Jupiters from super-Earths and serving as a critical benchmark for formation theories.
+| **Dearth of short-period Neptunian exoplanets: A desert in period-mass and period-radius planes** | **Relevance Score (1-10): 10**<br>**Is it a 'Must-Read'? Yes**<br>**Quick Takeaway:** This paper provides the definitive quantitative description of the Neptunian desert's boundaries, establishing it as a key feature separating hot Jupiters from super-Earths and serving as a critical benchmark for formation theories. |
 
 ---
 
@@ -144,5 +144,5 @@ This paper provides the essential quantitative framework for your research. Your
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NTE0MjU0N119
+eyJoaXN0b3J5IjpbMTM1MTI4Mzg0OSwtNzk1MTQyNTQ3XX0=
 -->
