@@ -33,6 +33,8 @@
 
 ---
 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 ### 1 Structured Paper Summary
 
 *   **Introduction:** The paper addresses the "Hot Neptune Desert," a region in period-radius parameter space lacking Neptune-sized planets on short orbits. It positions TOI-3261b as the fourth known ultrahot, high-density Neptune-sized USP, challenging formation theories. The key objective is to determine how TOI-3261b survived extreme irradiation and whether its origin differs from rocky USPs, potentially linking it to stripped gas giants.
@@ -74,6 +76,8 @@
         
     *   **Evolution Models:** The photoevaporation simulations use the non-energy-limited formalism of Kubyshkina et al. (2018), which is more realistic. The RLO modeling follows the formalism of Gu et al. (2003) and Valsecchi et al. (2015), which is standard for this type of analysis.
         
+
+<br><br><br><br>
 
 ### 3 Critical Evaluation
 
@@ -152,5 +156,5 @@ This paper demonstrates that the Neptunian Desert is sculpted by multiple mechan
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwOTgzNTQ4OF19
+eyJoaXN0b3J5IjpbMjEwNzAwNDAwMl19
 -->
