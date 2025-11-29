@@ -45,7 +45,7 @@ Do hot Jupiters form primarily via _in situ_ conglomeration close to their host 
 
 | Paper Title | Relevance & Quick Takeaway |
 | --- | --- |
-| **The Hot Jupiter Period–Mass Distribution as a Signature of in situ Formation** | **Relevance Score (1-10): 8**<br>**Is it a 'Must-Read'? Yes**<br>**Quick Takeaway:** The inner boundary of the hot Jupiter population follows  $a \propto M^{-2/7}$ , supporting _in situ_ formation and offering a key diagnostic for understanding the origins of planetary deserts.
+| **The Hot Jupiter Period–Mass Distribution as a Signature of in situ Formation** | **Relevance Score (1-10): 8**<br>**Is it a 'Must-Read'? Yes**<br>**Quick Takeaway:** The inner boundary of the hot Jupiter population follows  $a \propto M^{-2/7}$ , supporting _in situ_ formation and offering a key diagnostic for understanding the origins of planetary deserts. |
 
 ---
 
@@ -165,5 +165,5 @@ This paper provides a powerful template for your research: it demonstrates that 
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ3MTkyMjI1XX0=
+eyJoaXN0b3J5IjpbLTg2MDcxNTY0M119
 -->
