@@ -1,5 +1,5 @@
 
-**1 Core Information Summary**
+### 1 Core Information Summary
 
 *   **Research Question:** Discovery and characterization of two transiting sub-Saturn exoplanets, TOI-2374 b and TOI-3071 b, located deep within the Neptunian desert, to understand their unusual properties and formation pathways.
     
@@ -26,13 +26,18 @@
     3.  Highlights that planets just below Saturn's mass might be a metal-rich transition group, offering a specific population for statistical analysis in the context of the desert.
         
 
-**2 Relevance & Takeaway Table**
+### 2 Relevance & Takeaway Table
 
-| Paper Title | Relevance to "Planets in Neptunian Desert" & Quick Takeaway |
+| Paper Title | Relevance & Quick Takeaway |
 | --- | --- |
-| TOI-2374 b and TOI-3071 b: two metal-rich sub-Saturns well within the Neptunian desert | **Relevance Score (1-10):** 10 **Is it a 'Must-Read'?** Yes **Quick Takeaway:** The discovery of two extremely metal-rich sub-Saturns within the desert challenges standard formation models and suggests high metallicity is crucial for planetary survival in this region. |
+| **TOI-2374 b and TOI-3071 b: two metal-rich sub-Saturns well within the Neptunian desert** | **Relevance Score (1-10): 10**<br>**Is it a 'Must-Read'? Yes**<br>**Quick Takeaway:** The discovery of two extremely metal-rich sub-Saturns within the desert challenges standard formation models and suggests high metallicity is crucial for planetary survival in this region.
 
 ---
+
+<br><br><br><br><br><br><br><br>
+
+### 1 Structured Paper Summary
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI2NzkxNjYxXX0=
+eyJoaXN0b3J5IjpbLTY1MDYyOTg5Nl19
 -->
