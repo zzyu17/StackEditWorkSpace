@@ -47,7 +47,7 @@ Does photoevaporation primarily sculpt the upper edge of the Neptune desert, and
 
 | Paper Title | Relevance & Quick Takeaway |
 | --- | --- |
-| **The Upper Edge of the Neptune Desert Is Stable Against Photoevaporation** | **Relevance Score (1-10): 9**<br>**Is it a 'Must-Read'? Yes**<br>**Quick Takeaway:** Photoevaporation is too inefficient to carve the upper Neptune desert, implying that its structure is a pristine tracer of giant planet formation and migration.
+| **The Upper Edge of the Neptune Desert Is Stable Against Photoevaporation** | **Relevance Score (1-10): 9**<br>**Is it a 'Must-Read'? Yes**<br>**Quick Takeaway:** Photoevaporation is too inefficient to carve the upper Neptune desert, implying that its structure is a pristine tracer of giant planet formation and migration. |
 
 ---
 
@@ -183,5 +183,5 @@ This paper fundamentally shifts the interpretation of the upper Neptune desert f
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDY3MzA4OTFdfQ==
+eyJoaXN0b3J5IjpbLTY1MzU1NDc5MV19
 -->
