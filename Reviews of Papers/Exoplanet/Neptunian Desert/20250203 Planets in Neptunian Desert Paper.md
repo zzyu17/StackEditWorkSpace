@@ -28,12 +28,11 @@
 
 ### 2 Relevance & Takeaway Table
 
-**Paper Title:** The Hottest Neptunes Orbit Metal-rich Stars  
-**Relevance Score:** 9/10  
-**Is it a 'Must-Read'?:** Yes  
-**Quick Takeaway:** Neptune desert planets orbit metal-rich stars similar to hot Jupiters, strongly supporting a "top-down" formation origin as the stripped cores of giant planets rather than forming "in-situ" or from collisions of smaller bodies.
+| Paper Title | Relevance & Quick Takeaway |
+| --- | --- |
+| **The Hottest Neptunes Orbit Metal-rich Stars** | **Relevance Score (1-10): 9**<br>**Is it a 'Must-Read'? Yes**<br>**Quick Takeaway:** Neptune desert planets orbit metal-rich stars similar to hot Jupiters, strongly supporting a "top-down" formation origin as the stripped cores of giant planets rather than forming "in-situ" or from collisions of smaller bodies. |
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2OTgxNzY0OF19
+eyJoaXN0b3J5IjpbMzM3ODM5MDQ3XX0=
 -->
