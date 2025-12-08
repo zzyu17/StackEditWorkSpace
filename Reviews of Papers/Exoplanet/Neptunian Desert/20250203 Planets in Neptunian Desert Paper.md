@@ -34,9 +34,7 @@
 
 ---
 
-<br><br><br><br><br><br><br><br><br><br><br><br>
-
-### 1 Structured Paper Summary
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ### 1 Structured Paper Summary
 
@@ -75,6 +73,8 @@
     
 *   **Robustness Checks:** The entire analysis is replicated in the _radius-period_ plane using the **TOI catalog** to verify results are not an artifact of mass-measurement heterogeneity.
     
+
+<br><br><br><br>
 
 ### 3 Critical Evaluation
 
@@ -158,5 +158,5 @@ This paper provides a compelling statistical framework and a specific, testable 
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDYxODYxMjRdfQ==
+eyJoaXN0b3J5IjpbLTU0MTM2MzgwN119
 -->
