@@ -45,16 +45,9 @@
 
 ---
 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-### 2 Relevance & Takeaway Table
 
-| Paper Title | Relevance & Quick Takeaway |
-| --- | --- |
-| **Finding Optimal Apertures in _Kepler_ Data** | **Relevance Score**: 9/10  
-**Must-Read?**: Yes  
-**Quick Takeaway**: Introduces a superior, data-driven aperture optimization method (Method #2) that uses per-cadence PRF fitting and a combined S/N and CDPP metric, directly providing a transferable algorithm for exoplanet photometry pipelines. |
-
----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NjkxNjEwMF19
+eyJoaXN0b3J5IjpbLTc4MzI3MzU3MV19
 -->
