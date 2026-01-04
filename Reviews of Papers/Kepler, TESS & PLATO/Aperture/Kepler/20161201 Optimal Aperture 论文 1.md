@@ -41,7 +41,7 @@
 
 | Paper Title | Relevance & Quick Takeaway |
 | --- | --- |
-| **Finding Optimal Apertures in _Kepler_ Data** | **Relevance Score (1-10): 9**<br>**Is it a 'Must-Read'? Yes**<br>**Quick Takeaway:** This paper supplies the critical limb-darkening and gravity-darkening coefficient tables needed for precise transit light curve modeling, a foundational step for your TTV analysis of WD1856+534 b. |
+| **Finding Optimal Apertures in _Kepler_ Data** | **Relevance Score (1-10): 9**<br>**Is it a 'Must-Read'? Yes**<br>**Quick Takeaway:** Introduces a superior, data-driven aperture optimization method (Method #2) that uses per-cadence PRF fitting and a combined S/N and CDPP metric, directly providing a transferable algorithm for exoplanet photometry pipelines. |
 
 ---
 
@@ -56,5 +56,5 @@
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk5MTUzODg4XX0=
+eyJoaXN0b3J5IjpbLTY4NjkxNjEwMF19
 -->
