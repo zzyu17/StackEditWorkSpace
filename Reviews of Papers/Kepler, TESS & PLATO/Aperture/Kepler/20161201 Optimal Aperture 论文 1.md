@@ -1,4 +1,4 @@
-### **Core Information Summary**
+### 1 Core Information Summary
 
 *   **Research Question**: How to find optimal photometric apertures in Kepler (and K2) data to maximize transit signal detection and minimize systematic noise, especially after the loss of reaction wheels increased pressure on data processing.
     
@@ -35,11 +35,18 @@
     2.  **Systematic Mitigation**: The technique’s success with K2’s high motion demonstrates robustness for data with significant pointing drift or systematics.
         
     3.  **Catalog Validation**: The method’s ability to identify catalog errors is a valuable secondary benefit for data preparation and validation.
-        
+    
 
-* * *
+### 2 Relevance & Takeaway Table
 
-### **Relevance & Takeaway Table**
+| Paper Title | Relevance & Quick Takeaway |
+| --- | --- |
+| **Finding Optimal Apertures in _Kepler_ Data** | **Relevance Score (1-10): 9**<br>**Is it a 'Must-Read'? Yes**<br>**Quick Takeaway:** This paper supplies the critical limb-darkening and gravity-darkening coefficient tables needed for precise transit light curve modeling, a foundational step for your TTV analysis of WD1856+534 b. |
+
+---
+
+
+### 2 Relevance & Takeaway Table
 
 | Paper Title | Relevance & Quick Takeaway |
 | --- | --- |
@@ -49,5 +56,5 @@
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDgyMzE3NDBdfQ==
+eyJoaXN0b3J5IjpbNTk5MTUzODg4XX0=
 -->
