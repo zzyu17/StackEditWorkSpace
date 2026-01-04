@@ -104,7 +104,7 @@
 
 *   **Hypothesis Alignment**: This paper **strongly supports and provides a blueprint for** your core hypothesis. It proves that a data-driven aperture optimization algorithm, centered on PRF modeling and tailored metrics (S/N, CDPP), can be developed and generalized across missions with different noise properties (_Kepler_ → _K2_). Your plan to replicate and generalize this is directly validated.
     
-<br><br>
+<br>
 
 *   **Methodological Inspiration**:
     
@@ -154,6 +154,6 @@ This paper should serve as the primary methodological template for your project.
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MjE0OTYyLDUzNDQ3ODM1OCwxNzMyNT
-c5OTA2XX0=
+eyJoaXN0b3J5IjpbNDMyNTkyNzY4LC00NzIxNDk2Miw1MzQ0Nz
+gzNTgsMTczMjU3OTkwNl19
 -->
