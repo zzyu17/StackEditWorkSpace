@@ -45,7 +45,7 @@
 
 ---
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 ### 1 Structured Paper Summary
 
@@ -152,5 +152,5 @@ This paper should serve as the primary methodological template for your project.
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMjU3OTkwNl19
+eyJoaXN0b3J5IjpbNTM0NDc4MzU4LDE3MzI1Nzk5MDZdfQ==
 -->
