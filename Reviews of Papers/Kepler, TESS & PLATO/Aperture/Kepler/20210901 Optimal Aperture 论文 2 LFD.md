@@ -17,9 +17,6 @@
 3.  **Methodological Fit:** The paper directly supports the user's proposed methodology (large-scale TESS analysis) by offering a fast, scalable tool for generating high-quality light curves suitable for population studies.
 
 ### 2 Relevance & Takeaway Table
-| Paper Title | Relevance to “Planets in Neptunian Desert” & Quick Takeaway |
-| :--- | :--- |
-| **Linearized Field Deblending: Point-spread Function Photometry for Impatient Astronomers** | **Relevance Score (1-10):** 9<br>**Is it a 'Must-Read'?** Yes<br>**Quick Takeaway:** This paper provides the essential methodology for generating clean, deblended light curves in crowded TESS fields, which is a prerequisite for conducting robust statistical studies of rare populations like the Neptunian desert, as it prevents contamination from blending from skewing radius measurements. |
 
 | Paper Title | Relevance & Quick Takeaway |
 | --- | --- |
@@ -27,5 +24,5 @@
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU2MjM4MDYxLC0xMjUyMDU2NDY3XX0=
+eyJoaXN0b3J5IjpbNjU1MDMyMjMyLC0xMjUyMDU2NDY3XX0=
 -->
