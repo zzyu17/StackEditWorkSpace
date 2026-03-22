@@ -38,7 +38,6 @@ The method then solves a single, large linear least-squares problem to simultane
 
 <br><br><br><br><br><br><br><br><br><br>
 
-
 ### 1 Structured Paper Summary
 
 **Introduction:**
@@ -134,5 +133,5 @@ This paper fundamentally re-frames the challenge you are tackling. It suggests t
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE0Njg3MjExLC0xMjUyMDU2NDY3XX0=
+eyJoaXN0b3J5IjpbMjE0NzE1NDg3NywtMTI1MjA1NjQ2N119
 -->
