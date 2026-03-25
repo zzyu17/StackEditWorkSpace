@@ -74,7 +74,7 @@ The authors argue that while full PSF fitting (fitting both flux and position) i
 *   **Linearization Techniques:**
     *   **Polar Coordinates:** $r = (δx^2 + δy^2)^(1/2)$ and $φ = arctan2(δy, δx)$ are used to make the PSF shape smoother and easier to model with polynomials.
     *   **Log-Flux:** Fitting $log10(flux)$ makes the steep PSF wings (following a power law) linear in log-space, again simplifying the model.
-*   **Modeling Tool:** **Basis Splines (B-splines)**. These are used to create a flexible but linear design matrix (`X`) for both the PRF shape (in `r`, `φ`) and the common motion (in `δx`, `δy`, and `t`). The weights for these splines are solved using linear least squares (Equations B3, B4).
+*   **Modeling Tool:** **Basis Splines (B-splines)**. These are used to create a flexible but linear design matrix (`X`) for both the PRF shape in ($r$, $φ$) and the common motion (in $δx$, $δy$, and $t$). The weights for these splines are solved using linear least squares (Equations B3, B4).
 *   **Software:** The authors provide an open-source Python tool, `psfmachine`, which utilizes `scipy.sparse` for memory efficiency.
 
 ### 3 Critical Evaluation
@@ -131,6 +131,6 @@ This paper fundamentally re-frames the challenge you are tackling. It suggests t
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NDU5NjU3OSw4NTEzMjg4NTMsLTEyNT
+eyJoaXN0b3J5IjpbMTQ5ODY3NDQxMSw4NTEzMjg4NTMsLTEyNT
 IwNTY0NjddfQ==
 -->
