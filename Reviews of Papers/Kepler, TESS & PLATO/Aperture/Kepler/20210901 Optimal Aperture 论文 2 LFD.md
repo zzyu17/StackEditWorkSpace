@@ -72,7 +72,7 @@ The authors argue that while full PSF fitting (fitting both flux and position) i
 **Key Technical Details:**
 *   **Data Sources:** Kepler Target Pixel Files (TPFs) and Gaia EDR3 catalog for positions and initial flux priors.
 *   **Linearization Techniques:**
-    *   **Polar Coordinates:** `r = (δx² + δy²)¹⁄²` and `φ = arctan2(δy, δx)` are used to make the PSF shape smoother and easier to model with polynomials.
+    *   **Polar Coordinates:** $r = (δx^2 + δy^2)^(1/2)$ and $φ = arctan2(δy, δx)` are used to make the PSF shape smoother and easier to model with polynomials.
     *   **Log-Flux:** Fitting `log10(flux)` makes the steep PSF wings (following a power law) linear in log-space, again simplifying the model.
 *   **Modeling Tool:** **Basis Splines (B-splines)**. These are used to create a flexible but linear design matrix (`X`) for both the PRF shape (in `r`, `φ`) and the common motion (in `δx`, `δy`, and `t`). The weights for these splines are solved using linear least squares (Equations B3, B4).
 *   **Software:** The authors provide an open-source Python tool, `psfmachine`, which utilizes `scipy.sparse` for memory efficiency.
@@ -131,5 +131,6 @@ This paper fundamentally re-frames the challenge you are tackling. It suggests t
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUxMzI4ODUzLC0xMjUyMDU2NDY3XX0=
+eyJoaXN0b3J5IjpbLTc3MDE5MTc3NSw4NTEzMjg4NTMsLTEyNT
+IwNTY0NjddfQ==
 -->
